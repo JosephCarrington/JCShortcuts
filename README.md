@@ -1,0 +1,1 @@
+A group of shortcuts for moving things around via Hotkeys in Unity. Should be useful for prototyping.
